@@ -1,1 +1,1 @@
-# -techplus-capstone
+# techplus-capstone
